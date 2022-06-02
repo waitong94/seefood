@@ -1,0 +1,187 @@
+name,synonyms
+alcohol,"['alcohol', 'alcoholic_beverage']"
+almond,['almond']
+apple,['apple']
+applesauce,['applesauce']
+apricot,['apricot']
+artichoke,['artichoke']
+asparagus,['asparagus']
+avocado,['avocado']
+bagel,"['bagel', 'beigel']"
+banana,['banana']
+batter_(food),['batter_(food)']
+beef_(food),"['beef_(food)', 'boeuf_(food)']"
+beer_bottle,['beer_bottle']
+beer_can,['beer_can']
+bell_pepper,"['bell_pepper', 'capsicum']"
+blackberry,['blackberry']
+blueberry,['blueberry']
+boiled_egg,"['boiled_egg', 'coddled_egg']"
+bread,['bread']
+broccoli,['broccoli']
+brownie,['brownie']
+brussels_sprouts,['brussels_sprouts']
+bubble_gum,['bubble_gum']
+bun,"['bun', 'roll']"
+burrito,['burrito']
+butter,['butter']
+cake,['cake']
+candy_bar,['candy_bar']
+candy_cane,['candy_cane']
+cantaloup,"['cantaloup', 'cantaloupe']"
+carrot,['carrot']
+casserole,['casserole']
+cauliflower,['cauliflower']
+cayenne_(spice),"['cayenne_(spice)', 'cayenne_pepper_(spice)', 'red_pepper_(spice)']"
+celery,['celery']
+cherry,['cherry']
+chickpea,"['chickpea', 'garbanzo']"
+chili_(vegetable),"['chili_(vegetable)', 'chili_pepper_(vegetable)', 'chilli_(vegetable)', 'chilly_(vegetable)', 'chile_(vegetable)']"
+crisp_(potato_chip),"['crisp_(potato_chip)', 'potato_chip']"
+chocolate_bar,['chocolate_bar']
+chocolate_cake,['chocolate_cake']
+chocolate_milk,['chocolate_milk']
+chocolate_mousse,['chocolate_mousse']
+cider,"['cider', 'cyder']"
+clementine,['clementine']
+cocoa_(beverage),"['cocoa_(beverage)', 'hot_chocolate_(beverage)', 'drinking_chocolate']"
+coconut,"['coconut', 'cocoanut']"
+coleslaw,"['coleslaw', 'slaw']"
+cookie,"['cookie', 'cooky', 'biscuit_(cookie)']"
+edible_corn,"['edible_corn', 'corn', 'maize']"
+cornbread,['cornbread']
+cornmeal,['cornmeal']
+crab_(animal),['crab_(animal)']
+crabmeat,['crabmeat']
+cracker,['cracker']
+crape,"['crape', 'crepe', 'French_pancake']"
+cream_pitcher,['cream_pitcher']
+crescent_roll,"['crescent_roll', 'croissant']"
+crouton,['crouton']
+crumb,['crumb']
+cucumber,"['cucumber', 'cuke']"
+cupcake,['cupcake']
+date_(fruit),['date_(fruit)']
+doughnut,"['doughnut', 'donut']"
+egg,"['egg', 'eggs']"
+egg_roll,"['egg_roll', 'spring_roll']"
+egg_yolk,"['egg_yolk', 'yolk_(egg)']"
+eggplant,"['eggplant', 'aubergine']"
+escargot,['escargot']
+fig_(fruit),['fig_(fruit)']
+fish,['fish']
+fish_(food),['fish_(food)']
+French_toast,['French_toast']
+fruit_juice,['fruit_juice']
+garlic,"['garlic', 'ail']"
+gelatin,"['gelatin', 'jelly']"
+ginger,"['ginger', 'gingerroot']"
+gourd,['gourd']
+grape,['grape']
+green_bean,['green_bean']
+green_onion,"['green_onion', 'spring_onion', 'scallion']"
+grits,"['grits', 'hominy_grits']"
+ham,"['ham', 'jambon', 'gammon']"
+hamburger,"['hamburger', 'beefburger', 'burger']"
+honey,['honey']
+hot_sauce,['hot_sauce']
+hummus,"['hummus', 'humus', 'hommos', 'hoummos', 'humous']"
+icecream,['icecream']
+popsicle,['popsicle']
+ice_pack,"['ice_pack', 'ice_bag']"
+jam,['jam']
+jelly_bean,"['jelly_bean', 'jelly_egg']"
+keg,['keg']
+kiwi_fruit,['kiwi_fruit']
+lamb-chop,"['lamb-chop', 'lambchop']"
+lasagna,"['lasagna', 'lasagne']"
+legume,['legume']
+lemon,['lemon']
+lemonade,['lemonade']
+lettuce,['lettuce']
+lime,['lime']
+liquor,"['liquor', 'spirits', 'hard_liquor', 'liqueur', 'cordial']"
+lollipop,['lollipop']
+mandarin_orange,['mandarin_orange']
+martini,['martini']
+mashed_potato,['mashed_potato']
+meatball,['meatball']
+melon,['melon']
+milk,['milk']
+milk_can,['milk_can']
+milkshake,['milkshake']
+mint_candy,['mint_candy']
+muffin,['muffin']
+mushroom,['mushroom']
+nut,['nut']
+octopus_(food),['octopus_(food)']
+olive_oil,['olive_oil']
+omelet,"['omelet', 'omelette']"
+onion,['onion']
+orange_(fruit),['orange_(fruit)']
+orange_juice,['orange_juice']
+pancake,['pancake']
+papaya,['papaya']
+pastry,['pastry']
+patty_(food),['patty_(food)']
+pea_(food),['pea_(food)']
+peach,['peach']
+peanut_butter,['peanut_butter']
+pear,['pear']
+pepper,"['pepper', 'peppercorn']"
+pepper_mill,"['pepper_mill', 'pepper_grinder']"
+persimmon,['persimmon']
+pickle,['pickle']
+pie,['pie']
+pineapple,['pineapple']
+pita_(bread),"['pita_(bread)', 'pocket_bread']"
+pizza,['pizza']
+pop_(soda),"['pop_(soda)', 'soda_(pop)', 'tonic', 'soft_drink']"
+potato,['potato']
+prawn,"['prawn', 'shrimp']"
+pretzel,['pretzel']
+prune,['prune']
+pudding,['pudding']
+quesadilla,['quesadilla']
+quiche,['quiche']
+radish,"['radish', 'daikon']"
+raspberry,['raspberry']
+rib_(food),['rib_(food)']
+root_beer,['root_beer']
+salad,['salad']
+salami,['salami']
+salmon_(food),['salmon_(food)']
+salsa,['salsa']
+saltshaker,['saltshaker']
+sandwich,['sandwich']
+smoothie,['smoothie']
+soup,['soup']
+sour_cream,"['sour_cream', 'soured_cream']"
+soya_milk,"['soya_milk', 'soybean_milk', 'soymilk']"
+crawfish,"['crawfish', 'crayfish']"
+squid_(food),"['squid_(food)', 'calamari', 'calamary']"
+steak_(food),['steak_(food)']
+stew,['stew']
+strawberry,['strawberry']
+string_cheese,['string_cheese']
+sugar_bowl,['sugar_bowl']
+sugarcane_(plant),['sugarcane_(plant)']
+sushi,['sushi']
+sweet_potato,['sweet_potato']
+Tabasco_sauce,['Tabasco_sauce']
+taco,['taco']
+tea_bag,['tea_bag']
+tequila,['tequila']
+toast_(food),['toast_(food)']
+tomato,['tomato']
+truffle_(chocolate),"['truffle_(chocolate)', 'chocolate_truffle']"
+turkey_(food),['turkey_(food)']
+turnip,['turnip']
+vinegar,['vinegar']
+vodka,['vodka']
+waffle,['waffle']
+watermelon,['watermelon']
+whipped_cream,['whipped_cream']
+wine_bottle,['wine_bottle']
+yogurt,"['yogurt', 'yoghurt', 'yoghourt']"
+zucchini,"['zucchini', 'courgette']"
